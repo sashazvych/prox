@@ -1,0 +1,6 @@
+SZolotarevych
+SZolotarevych = await ethers.ContractFactory("SZolotarevych")
+SZolotarevych = await ethers.getContractFactory("SZolotarevych")
+MyToken = await ethers.getContractFactory("MyToken")
+MyToken
+MyToken = await ethers.getContractFactory("MyToken")
